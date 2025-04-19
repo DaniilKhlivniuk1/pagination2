@@ -160,11 +160,11 @@
       });
     }
   }
-})({"1qSKU":[function(require,module,exports,__globalThis) {
+})({"buBvE":[function(require,module,exports,__globalThis) {
 var global = arguments[3];
 var HMR_HOST = null;
 var HMR_PORT = null;
-var HMR_SERVER_PORT = 49940;
+var HMR_SERVER_PORT = 52537;
 var HMR_SECURE = false;
 var HMR_ENV_HASH = "d6ea1d42532a7575";
 var HMR_USE_SSE = false;
@@ -668,6 +668,6 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
 
 },{}],"4M6V8":[function(require,module,exports,__globalThis) {
 
-},{}]},["1qSKU","4M6V8"], "4M6V8", "parcelRequire1439", {})
+},{}]},["buBvE","4M6V8"], "4M6V8", "parcelRequire1439", {})
 
 //# sourceMappingURL=pagination2.59712999.js.map
